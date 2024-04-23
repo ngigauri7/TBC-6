@@ -1,0 +1,400 @@
+header h1 {
+    color: #000;
+font-size: 11px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+display: inline-block;
+margin-right: 35px;
+margin-top: 31px;
+font-family: "Roboto", sans-serif;
+
+
+}
+
+.h1 {
+    margin-left: 132px;
+    color: #000;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    display: inline-block;
+    margin-right: 35px;
+    font-family: "Roboto", sans-serif;
+    
+}
+
+html {
+    background: #F1F1F1;
+}
+
+.firstimg {
+    vertical-align: middle;
+}
+
+.h1-2 {
+    display: block;
+    margin-left: 132px;
+    margin-top: 42px;
+    color: #000;
+    color: #000;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    font-family: "Roboto", sans-serif;
+}
+
+.card1 {
+    display: inline-block;
+    width: 362px;
+    height: 400px;
+    margin-left: 138px;
+    margin-top: 30px;
+    border-radius:5PX ;
+    
+}
+
+div.relative {
+    position: relative;
+    width: 362px;
+    height: 400px;
+    border-radius: 5px;
+    margin-left: 132px;
+    margin-top: 27px;
+    display: inline-block;
+    background-color: #FFF;
+
+   
+  }
+  
+  div.absolute {
+    position: absolute;
+    top: 32px;
+    left: 40px;
+    width: 500px;
+    height: 100px;
+   
+   
+    
+  }
+
+  .myh2 {
+    font-family: "Roboto", sans-serif;
+    color: #FFF;
+
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    font-family: "Roboto", sans-serif;
+
+  }
+
+  .time {
+    width: 16px;
+    height: 16px;
+    border-radius: 16px;
+    background: url(<path-to-image>) lightgray 50% / cover no-repeat;
+  }
+
+  .h4-1 {
+    color: #8A8787;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    display: inline-block;
+    
+  }
+.relativep {
+color: #8A8787;
+font-size: 10px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-top: 68px;
+margin-left: 37px;
+  }
+
+  .time {
+    margin-left: 37px;
+    margin-right: 5px;
+    margin-top: 15px ;
+
+  }
+
+
+  .card2 {
+    width: 362px;
+    height: 400px;
+    margin-left: 138px;
+    margin-top: 30px;
+    display: inline-block;
+    border-radius: 5px;
+  }
+
+.relativep2 {
+    color: #8A8787;
+font-size: 10px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-top: 68px;
+margin-left: 37px;
+}
+
+
+.h2-2 {
+    color: #FFF;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 68px;
+    margin-left: 37px;
+    font-family: "Roboto", sans-serif;
+
+}
+
+.absolute2 {
+    position: absolute;
+    top: -31px;
+    left: 2px;
+}
+
+.relative2 {
+    background-color: #FFF;
+    position: relative;
+    width: 362px;
+    height: 400px;
+    border-radius: 5px;
+    display: inline-block;
+    margin-left: -60px;
+}
+
+
+
+
+
+
+
+
+
+.card3 {
+    display: inline;
+    width: 362px;
+    height: 400px;
+    margin-left: 378px;
+    margin-top: -403px;
+    display: inline-block;
+    vertical-align: top;
+    background-color:#FFF ;
+    border-radius: 5px;
+
+}
+
+div {
+    vertical-align: middle;
+}
+
+.relativep3 {
+    color: #8A8787;
+font-size: 10px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-top: 46px;
+margin-left: 37px; }
+
+.h2-3 {
+    color: #FFF;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    font-family: "Roboto", sans-serif;
+    top: -5;
+}
+
+.absolute3 {
+  position: absolute;
+  top: 186px;
+  right: 279px;
+}
+
+
+header {
+  z-index: 100;
+}
+
+
+.container {
+
+  width: 1300px;
+  height: 910px;
+  margin: 36px auto;
+
+}
+
+.HAPPENINGNOW {
+  color: #000;
+  font-family: "Roboto", sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  margin-left: 173px;
+  margin-top: 60px;
+}
+
+.city {
+  width: 758px;
+height: 430px;
+border-radius: 5px;
+background: url(<path-to-image>) lightgray 50% / cover no-repeat;
+}
+
+.wrapper1 {
+  position: relative;
+  margin-right: 45px;
+  display: inline-block;
+}
+
+h3 {
+	color: #FFF;
+  font-family: "Roboto", sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+  
+}
+
+.village {
+  margin-top: 48px;
+}
+
+.card5 {
+  display: inline-block;
+}
+
+.nature {
+  width: 362px;
+  height: 212px;
+  border-radius: 5px;
+  background: url(<path-to-image>) lightgray 50% / cover no-repeat;
+  
+  
+   
+
+}
+
+.elephants {
+  width: 362px;
+  height: 212px;
+  border-radius: 5px;
+  background: url(<path-to-image>) lightgray 50% / cover no-repeat;
+  vertical-align: top;
+  margin-left: 45px;
+  margin-top: -100px;
+  
+  
+}
+
+.sky {
+  width: 362px;
+  height: 212px;
+  border-radius: 5px;
+  background: url(<path-to-image>) lightgray 50% / cover no-repeat;
+  margin-left: 809px;
+  margin-top: -350px;
+  vertical-align: middle;
+}
+
+
+.footer {
+
+height: 201px;
+
+background-color: #243043;
+}
+
+
+div>h1 {
+  color: #818687;
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  display: inline-block;
+  margin-bottom: 14px;
+  
+}
+
+.links {
+  width: 400px;
+  height: 100px;
+  margin-left: 140px;
+}
+
+.home{
+  margin-right: 100px;
+  margin-top: 60px;
+}
+
+.about {
+  margin-right: 118px;
+}
+
+.discovery {
+  margin-right: 75px;
+}
+
+.help {
+  margin-right: 126px;
+}
+
+.photos {
+  margin-right: 90px;
+}
+
+.terms {
+  margin-right: 116px;
+}
+
+.contact {
+  margin-right: 86px;
+
+}
+
+.guid {
+  margin-right: 100px;
+}
+
+
+.divv{
+  margin-left: 600px;
+  margin-top: -41px;
+}
+
+.divvh1 {
+  color: #FFF;
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.geolab{
+  margin-left: 800px;
+  vertical-align: ;
+}
+
